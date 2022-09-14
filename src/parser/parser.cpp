@@ -1,5 +1,4 @@
 #include "parser.hpp"
-
 #include <cassert>
 #include <string>
 #include <tuple>
